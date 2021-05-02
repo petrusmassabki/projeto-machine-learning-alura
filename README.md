@@ -1,1 +1,1 @@
-# projeto-machine-learning-alura
+# Projeto Machine Learning - Alura
